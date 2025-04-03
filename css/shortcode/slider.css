@@ -65,14 +65,14 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 }
 .slider-content h5{
     font-size: 16px;
-    color: #7f7f7f;
+    color: #ffffff;
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 3px;
     font-weight: 400;
     margin-bottom: 8px;
 }
 .slider-content h1 {
-    color: #666666;
+    color: #ffffff;
     font-size: 36px;
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
@@ -82,7 +82,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
     color: #98515b;
 }
 .slider-content p {
-  color: #7f7f7f;
+  color: #ffffff;
   font-size: 16px;
   margin-bottom: 32px;
   font-family: 'Lato', sans-serif;
